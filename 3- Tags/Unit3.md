@@ -1,0 +1,1 @@
+Describe cloud service types

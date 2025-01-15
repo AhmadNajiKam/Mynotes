@@ -13,40 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3- Tags/Unit4.md",
+                "file": "5- Main notes/Fundamentals of relational-databases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unit4"
-            }
-          },
-          {
-            "id": "d5e6c8f5a8bb439f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "7-Images/Pasted image 20241219175407.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241219175407"
-            }
-          },
-          {
-            "id": "af72685d6b191ec5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "7-Images/Pasted image 20241219175407.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241219175407"
+              "title": "Fundamentals of relational-databases"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,24 +160,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f78239112d12148d",
+  "active": "3e94d719514487a5",
   "lastOpenFiles": [
-    "7-Images/shared-responsibility-b3829bfe 2.svg",
+    "2- Source Material/Resources.md",
+    "5- Main notes/cryptozombies.io.md",
+    "3- Tags/Unit4.md",
     "7-Images/Pasted image 20241219175407.png",
+    "7-Images/shared-responsibility-b3829bfe 2.svg",
     "7-Images",
     "Pasted image 20250115092425.png",
     "5- Main notes/Fundamentals of relational-databases.md",
     "7-Images/Pasted image 20250115110732.png",
     "4- Indexes/Databases.md",
     "5- Main notes/Introduction to Software Engineering.md",
-    "2- Source Material/Resources.md",
     "5- Main notes/Reliability and predictability in the cloud.md",
     "4- Indexes/Software Engineering.md",
     "4- Indexes/Cloud.md",
     "4- Indexes/Git.md",
     "3- Tags/Unit2.md",
     "3- Tags/Unit3.md",
-    "3- Tags/Unit4.md",
     "3- Tags/Web3.md",
     "3- Tags/Programming.md",
     "4- Indexes/Rust.md",

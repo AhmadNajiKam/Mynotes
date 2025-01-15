@@ -25,18 +25,28 @@
             "id": "d5e6c8f5a8bb439f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "5- Main notes/Resources.md",
-                "mode": "source",
-                "source": false
+                "file": "7-Images/Pasted image 20241219175407.png"
               },
-              "icon": "lucide-file",
-              "title": "Resources"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241219175407"
+            }
+          },
+          {
+            "id": "af72685d6b191ec5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "7-Images/Pasted image 20241219175407.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241219175407"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,38 +185,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5e6c8f5a8bb439f",
+  "active": "f78239112d12148d",
   "lastOpenFiles": [
-    "1- Rough notes/Resources to read when free.md",
-    "4- Indexes/Blockchain.md",
+    "7-Images/shared-responsibility-b3829bfe 2.svg",
+    "7-Images/Pasted image 20241219175407.png",
+    "7-Images",
+    "Pasted image 20250115092425.png",
+    "5- Main notes/Fundamentals of relational-databases.md",
+    "7-Images/Pasted image 20250115110732.png",
+    "4- Indexes/Databases.md",
+    "5- Main notes/Introduction to Software Engineering.md",
+    "2- Source Material/Resources.md",
+    "5- Main notes/Reliability and predictability in the cloud.md",
+    "4- Indexes/Software Engineering.md",
     "4- Indexes/Cloud.md",
-    "4- Indexes/VLSI.md",
-    "4- Indexes/Rust.md",
-    "4- Indexes/GoLang.md",
     "4- Indexes/Git.md",
     "3- Tags/Unit2.md",
-    "3- Tags/Programming.md",
-    "shared-responsibility-b3829bfe 2.svg",
-    "5- Main notes/Resources.md",
-    "3- Tags/Web3.md",
-    "3- Tags/Unit4.md",
     "3- Tags/Unit3.md",
+    "3- Tags/Unit4.md",
+    "3- Tags/Web3.md",
+    "3- Tags/Programming.md",
+    "4- Indexes/Rust.md",
+    "4- Indexes/GoLang.md",
+    "1- Rough notes/Resources to read when free.md",
+    "4- Indexes/Blockchain.md",
+    "4- Indexes/VLSI.md",
     "5- Main notes/What to do with your first issue.md",
     "1- Rough notes/Urgent stuff to finish.md",
     "1- Rough notes/Random Thoughts to search up.md",
     "5- Main notes/Azure physical security.md",
-    "Pasted image 20241219175407.png",
     "5- Main notes/SaaS.md",
     "5- Main notes/Manageability in the cloud.md",
-    "5- Main notes/Reliability and predictability in the cloud.md",
     "5- Main notes/PaaS.md",
-    "shared-responsibility-b3829bfe 1.svg",
-    "5- Main notes/IaaS.md",
-    "shared-responsibility-b3829bfe.svg",
-    "5- Main notes/Security and governance in the cloud.md",
-    "5- Main notes/Hello Cargo!.md",
-    "5- Main notes/Availability and scalability in the cloud.md",
-    "5- Main notes/Hello World!.md",
+    "7-Images/shared-responsibility-b3829bfe 1.svg",
+    "7-Images/shared-responsibility-b3829bfe.svg",
     "Untitled.canvas",
     "6- Templates",
     "5- Main notes",

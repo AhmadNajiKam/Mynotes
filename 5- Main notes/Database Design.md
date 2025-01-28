@@ -24,4 +24,5 @@ Tags: [[Databases]]
 - **Description of Elements**: Helps describe database elements using Entity-Relationship models.
 - **Logical Structure Preview**: Offers a preview of the database's logical structure before implementation.
 
-
+ ## [ERD symbols](https://www.edrawsoft.com/er-diagram-symbols.html)
+ 

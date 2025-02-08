@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69a63aee0902e677",
+        "id": "ce0097a5e65d786e",
         "type": "tabs",
         "children": [
           {
-            "id": "66c056863614031c",
+            "id": "b292a580ec3ec6f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5- Main notes/NodeJS.md",
+                "file": "5- Main notes/Advanced Git commands and techniques to know about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodeJS"
+              "title": "Advanced Git commands and techniques to know about"
             }
           }
         ]
@@ -34,18 +34,6 @@
         "id": "6f6f20ccebc7d137",
         "type": "tabs",
         "children": [
-          {
-            "id": "f78239112d12148d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "f1ca90fe64818301",
             "type": "leaf",
@@ -72,8 +60,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "eb88c729bf567980",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,12 +162,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66c056863614031c",
+  "active": "b292a580ec3ec6f5",
   "lastOpenFiles": [
-    "3- Tags/Node.JS.md",
-    "5- Main notes/NodeJS.md",
-    "4- Indexes/AI Responses.md",
+    "5- Main notes/What to do with your first issue.md",
+    "5- Main notes/Advanced Git commands and techniques to know about.md",
     "4- Indexes/Blockchain.md",
+    "4- Indexes/Git.md",
+    "5- Main notes/NodeJS.md",
+    "3- Tags/Node.JS.md",
+    "4- Indexes/AI Responses.md",
     "5- Main notes/Database Design.md",
     "5- Main notes/Introduction to Software Engineering.md",
     "5- Main notes/Fundamentals of relational-databases.md",
@@ -181,7 +186,6 @@
     "5- Main notes/Reliability and predictability in the cloud.md",
     "4- Indexes/Software Engineering.md",
     "4- Indexes/Cloud.md",
-    "4- Indexes/Git.md",
     "3- Tags/Unit2.md",
     "3- Tags/Unit3.md",
     "3- Tags/Web3.md",
@@ -190,9 +194,7 @@
     "4- Indexes/GoLang.md",
     "1- Rough notes/Resources to read when free.md",
     "4- Indexes/VLSI.md",
-    "5- Main notes/What to do with your first issue.md",
     "1- Rough notes/Urgent stuff to finish.md",
-    "1- Rough notes/Random Thoughts to search up.md",
     "7-Images/shared-responsibility-b3829bfe 1.svg",
     "7-Images/shared-responsibility-b3829bfe.svg",
     "Untitled.canvas",
